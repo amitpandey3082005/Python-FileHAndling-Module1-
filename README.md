@@ -1,6 +1,9 @@
 # 📂 File Handling in Python — Presentation Code
 
-<img src="./galgotias_logo.png" alt="Galgotias University Logo" width="180">
+<p align="center">
+  <img src="./galgotias_logo.jfif" alt="Galgotias University Logo" width="200">
+</p>
+
 
 ## 📌 About
 This repository contains all the **Python** code examples from my **File Handling** presentation. Every program shown in the PPT slides has been saved as a separate, ready-to-run `.py` file for easy learning and practice.
